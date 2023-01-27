@@ -1,0 +1,15 @@
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/bin/Debug/net6.0/GenericEquality
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/bin/Debug/net6.0/GenericEquality.deps.json
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/bin/Debug/net6.0/GenericEquality.runtimeconfig.json
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/bin/Debug/net6.0/GenericEquality.dll
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/bin/Debug/net6.0/GenericEquality.pdb
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.csproj.AssemblyReference.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.AssemblyInfoInputs.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.AssemblyInfo.cs
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.csproj.CoreCompileInputs.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.dll
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/refint/GenericEquality.dll
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.pdb
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/GenericEquality.genruntimeconfig.cache
+/Users/Arthur_Prado_De_Fazio/code_at_CS/genericEquality/GenericEquality/GenericEquality/obj/Debug/net6.0/ref/GenericEquality.dll
